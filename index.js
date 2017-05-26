@@ -10,7 +10,7 @@ module.exports = function (opt) {
     
     lines = str.split(/\r\n|\r|\n/g);
     
-    if (!opt.stopMatching) {
+    if (!opt.stopAfterFirstMatch) {
       newLines = matchOnAllLines(lines, opt);
     } else {
       newLines = matchUntilFirstHit(lines, opt);		
