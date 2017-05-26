@@ -25,6 +25,9 @@
     "filter"
   ],
   "author": "Carsten Schaefer <Carsten.Schaefer@G-TAC.de> (http://www.g-tac.de)",
+  "contributors": [
+		"Daniel Rieck <danielcrieck@gmail.com> (https://github.com/invokeImmediately/)"
+	],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/invokeImmediately/gulp-insert-lines/issues"
