@@ -1,6 +1,6 @@
 {
   "name": "gulp-insert-lines",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A gulp plugin that will insert a given line before or after the matches of the given regex filter.",
   "main": "index.js",
   "dependencies": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/carstenschaefer/gulp-insert-lines.git"
+    "url": "git://github.com/invokeImmediately/gulp-insert-lines.git"
   },
   "keywords": [
     "gulp",
@@ -27,7 +27,7 @@
   "author": "Carsten Schaefer <Carsten.Schaefer@G-TAC.de> (http://www.g-tac.de)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/carstenschaefer/gulp-insert-lines/issues"
+    "url": "https://github.com/invokeImmediately/gulp-insert-lines/issues"
   },
-  "homepage": "https://github.com/carstenschaefer/gulp-insert-lines"
+  "homepage": "https://github.com/invokeImmediately/gulp-insert-lines"
 }
